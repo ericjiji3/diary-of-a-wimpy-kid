@@ -9,7 +9,7 @@ function Two(){
                 da k33f b0wl.
             </span>
             <div>
-                <iframe src="https://open.spotify.com/embed/track/3azJifCSqg9fRij2yKIbWz?utm_source=generator" width="25%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                <iframe src="https://open.spotify.com/embed/track/3azJifCSqg9fRij2yKIbWz?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
             </div>
         </div>
     )

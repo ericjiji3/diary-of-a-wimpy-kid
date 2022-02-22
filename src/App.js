@@ -2,6 +2,11 @@ import logo from './logo.svg';
 import Home from './Home.js';
 import One from './One.js';
 import Two from './Two.js';
+import Three from './Three.js';
+import Four from './Four.js';
+import Five from './Five.js';
+import Six from './Six.js';
+import Seven from './Seven.js';
 
 import {
   BrowserRouter as Router,
@@ -17,9 +22,14 @@ function App() {
       <div>
       <Home/>
       <Routes>
-        <Route path="/" element={<Home />}/>
+          {/* <Route path="/" element={<Home />}/> */}
           <Route path="/one" element={<One />}/>
           <Route path="/two" element={<Two />}/>
+          <Route path="/three" element={<Three />}/>
+          <Route path="/four" element={<Four />}/>
+          <Route path="/five" element={<Five />}/>
+          <Route path="/six" element={<Six />}/>
+          <Route path="/seven" element={<Seven />}/>
         </Routes>
         </div>
   );
