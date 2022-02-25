@@ -9,6 +9,7 @@ import Six from './Six.js';
 import Seven from './Seven.js';
 import Eight from './Eight.js';
 import Nine from './Nine.js';
+import Ten from './Ten.js';
 
 import {
   BrowserRouter as Router,
@@ -34,6 +35,7 @@ function App() {
           <Route path="/seven" element={<Seven />}/>
           <Route path="/eight" element={<Eight />}/>
           <Route path="/nine" element={<Nine />}/>
+          <Route path="/ten" element={<Ten />}/>
         </Routes>
         </div>
   );
