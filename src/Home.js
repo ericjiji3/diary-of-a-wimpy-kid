@@ -61,6 +61,16 @@ function Home(){
               2.24.22
             </NavLink>
           </li>
+          <li>
+          <NavLink to='/eleven'>
+              2.25.22
+            </NavLink>
+          </li>
+          <li>
+          <NavLink to='/twelve'>
+              2.26.22
+            </NavLink>
+          </li>
         </ul>
       
     )
