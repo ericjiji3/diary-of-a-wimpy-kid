@@ -1,19 +1,20 @@
 import logo from './logo.svg';
 import Home from './Home.js';
-import One from './One.js';
-import Two from './Two.js';
-import Three from './Three.js';
-import Four from './Four.js';
-import Five from './Five.js';
-import Six from './Six.js';
-import Seven from './Seven.js';
-import Eight from './Eight.js';
-import Nine from './Nine.js';
-import Ten from './Ten.js';
-import Eleven from './Eleven.js';
-import Twelve from './Twelve.js';
-import Thirteen from './Thirteen.js';
-import Fourteen from './Fourteen.js';
+import One from './Entries/One.js';
+import Two from './Entries/Two.js';
+import Three from './Entries/Three.js';
+import Four from './Entries/Four.js';
+import Five from './Entries/Five.js';
+import Six from './Entries/Six.js';
+import Seven from './Entries/Seven.js';
+import Eight from './Entries/Eight.js';
+import Nine from './Entries/Nine.js';
+import Ten from './Entries/Ten.js';
+import Eleven from './Entries/Eleven.js';
+import Twelve from './Entries/Twelve.js';
+import Thirteen from './Entries/Thirteen.js';
+import Fourteen from './Entries/Fourteen.js';
+import Fifteen from './Entries/Fifteen.js';
 
 import {
   BrowserRouter as Router,
@@ -44,6 +45,7 @@ function App() {
           <Route path="/twelve" element={<Twelve />}/>
           <Route path="/thirteen" element={<Thirteen />}/>
           <Route path="/fourteen" element={<Fourteen />}/>
+          <Route path="/fifteen" element={<Fifteen />}/>
         </Routes>
         </div>
   );
