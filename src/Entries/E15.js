@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Fifteen(){
+function E15(){
     return(
         <div>
             <h1>3.1.22</h1>
@@ -11,4 +11,4 @@ function Fifteen(){
     )
 }
 
-export default Fifteen;
+export default E15;

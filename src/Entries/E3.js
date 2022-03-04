@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Three(){
+function E3(){
     return(
         <div>
             <h1>2.17.22</h1>
@@ -14,4 +14,4 @@ function Three(){
     )
 }
 
-export default Three;
+export default E3;

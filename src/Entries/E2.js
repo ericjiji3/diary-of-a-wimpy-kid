@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Two(){
+function E2(){
     return(
         <div>
             <h1>2.16.22</h1>
@@ -15,4 +15,4 @@ function Two(){
     )
 }
 
-export default Two;
+export default E2;

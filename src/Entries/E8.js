@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Eight(){
+function E8(){
     return(
         <div>
             <h1>2.22.22</h1>
@@ -16,4 +16,4 @@ function Eight(){
     )
 }
 
-export default Eight;
+export default E8;

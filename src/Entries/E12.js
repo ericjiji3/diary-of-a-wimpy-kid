@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Twelve(){
+function E12(){
     return(
         <div>
             <h1>2.26.22</h1>
@@ -14,4 +14,4 @@ function Twelve(){
     )
 }
 
-export default Twelve;
+export default E12;

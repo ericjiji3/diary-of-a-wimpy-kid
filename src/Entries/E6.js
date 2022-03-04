@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Six(){
+function E6(){
     return(
         <div>
             <h1>2.20.22</h1>
@@ -13,4 +13,4 @@ function Six(){
     )
 }
 
-export default Six;
+export default E6;

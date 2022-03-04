@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Seven(){
+function E7(){
     return(
         <div>
             <h1>2.21.22</h1>
@@ -16,4 +16,4 @@ function Seven(){
     )
 }
 
-export default Seven;
+export default E7;

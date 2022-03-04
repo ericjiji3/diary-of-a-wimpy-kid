@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Nine(){
+function E9(){
     return(
         <div>
             <h1>2.23.22</h1>
@@ -14,4 +14,4 @@ function Nine(){
     )
 }
 
-export default Nine;
+export default E9;

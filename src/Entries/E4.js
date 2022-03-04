@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Four(){
+function E4(){
     return(
         <div>
             <h1>2.18.22</h1>
@@ -15,4 +15,4 @@ function Four(){
     )
 }
 
-export default Four;
+export default E4;

@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Fourteen(){
+function E14(){
     return(
         <div>
             <h1>2.28.22</h1>
@@ -17,4 +17,4 @@ function Fourteen(){
     )
 }
 
-export default Fourteen;
+export default E14;

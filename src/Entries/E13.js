@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Thirteen(){
+function E13(){
     return(
         <div>
             <h1>2.27.22</h1>
@@ -14,4 +14,4 @@ function Thirteen(){
     )
 }
 
-export default Thirteen;
+export default E13;

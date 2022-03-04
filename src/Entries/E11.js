@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Eleven(){
+function E11(){
     return(
         <div>
             <h1>2.25.22</h1>
@@ -13,4 +13,4 @@ function Eleven(){
     )
 }
 
-export default Eleven;
+export default E11;

@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Ten(){
+function E10(){
     return(
         <div>
             <h1>2.24.22</h1>
@@ -13,4 +13,4 @@ function Ten(){
     )
 }
 
-export default Ten;
+export default E10;
