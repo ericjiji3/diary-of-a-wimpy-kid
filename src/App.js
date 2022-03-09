@@ -17,6 +17,12 @@ import E14 from './Entries/E14.js';
 import E15 from './Entries/E15.js';
 import E16 from './Entries/E16.js';
 import E17 from './Entries/E17.js';
+import E18 from './Entries/E18.js';
+import E19 from './Entries/E19.js';
+import E20 from './Entries/E20.js';
+import E21 from './Entries/E21.js';
+import E22 from './Entries/E22.js';
+import E23 from './Entries/E23.js';
 
 import {
   BrowserRouter as Router,
@@ -48,8 +54,14 @@ function App() {
           <Route path="/thirteen" element={<E13 />}/>
           <Route path="/fourteen" element={<E14 />}/>
           <Route path="/fifteen" element={<E15 />}/>
-          <Route path="/fifteen" element={<E16 />}/>
-          <Route path="/fifteen" element={<E17 />}/>
+          <Route path="/sixteen" element={<E16 />}/>
+          <Route path="/seventeen" element={<E17 />}/>
+          <Route path="/eighteen" element={<E18 />}/>
+          <Route path="/nineteen" element={<E19 />}/>
+          <Route path="/twenty" element={<E20 />}/>
+          <Route path="/twentyone" element={<E21 />}/>
+          <Route path="/twentytwo" element={<E22 />}/>
+          <Route path="/twentythree" element={<E23 />}/>
         </Routes>
         </div>
   );
