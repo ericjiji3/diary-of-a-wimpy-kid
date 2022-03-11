@@ -1,11 +1,35 @@
-.App {
-  text-align: center;
+.container{
+  margin-top: 25px;
+  border: 3px solid black;
+  padding: 0!important;
+  border-radius: 25px;
+  font-family: 'Patrick Hand SC', cursive;
+}
+.entries{
+  background-color: blue;
+  border-top-right-radius: 25px 25px;
+  border-bottom-right-radius: 25px 25px;
+}
+.entries h1{
+  text-decoration: underline;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.paper{
+  border-top-left-radius: 25px 25px;
+  border-bottom-left-radius: 25px 25px;
 }
+.paper, .entries{
+    width: 100%;
+    min-height: 60vh;
+    padding: 35px 20px;
+    background: repeating-linear-gradient(#F1EDE9, #F1EDE9 29px, #94ACD4 30px, #94ACD4 32px);
+    line-height: 32px;
+    outline: 0;
+    font-size: 22px;
+    box-shadow: 0 1em 3em 0 rgb(0 0 0 / 20%);
+}
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

@@ -23,6 +23,7 @@ import E20 from './Entries/E20.js';
 import E21 from './Entries/E21.js';
 import E22 from './Entries/E22.js';
 import E23 from './Entries/E23.js';
+import E24 from './Entries/E24.js';
 
 import {
   BrowserRouter as Router,
@@ -35,10 +36,14 @@ import './App.css';
 
 function App() {
   return (
-      <div>
-      <Home/>
+      <div className="container row mx-auto align-middle">
+        <div className="col paper">
+        <Home/>
+        </div>
+        <div className="entries col">
       <Routes>
           {/* <Route path="/" element={<Home />}/> */}
+
           <Route path="/one" element={<E1 />}/>
           <Route path="/two" element={<E2 />}/>
           <Route path="/three" element={<E3 />}/>
@@ -62,7 +67,9 @@ function App() {
           <Route path="/twentyone" element={<E21 />}/>
           <Route path="/twentytwo" element={<E22 />}/>
           <Route path="/twentythree" element={<E23 />}/>
+          <Route path="/twentyfour" element={<E24 />}/>
         </Routes>
+        </div>
         </div>
   );
 }

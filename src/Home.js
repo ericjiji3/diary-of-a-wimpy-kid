@@ -6,11 +6,12 @@ import {
     NavLink,
     Link
   } from "react-router-dom";
+import "./Home.css";
 
 function Home(){
     return(
-        
-        <ul>
+        <div className="dates">
+          <ul>
           <li>
             <NavLink to='/one'>
               2.15.22
@@ -126,7 +127,13 @@ function Home(){
               3.9.22
             </NavLink>
           </li>
+          <li>
+          <NavLink to='/twentyfour'>
+              3.10.22
+            </NavLink>
+          </li>
         </ul>
+            </div>
       
     )
 }
