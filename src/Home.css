@@ -1,6 +1,6 @@
 
 .dates{
-
+    
 }
 
 .dates ul{
@@ -31,4 +31,10 @@
 .dates ul li a:hover:after {
     transform: scaleX(1);
     transform-origin: bottom left;
+}
+
+@media (max-width: 991px){
+    .dates{
+        font-size: 17.5px;
+    }    
 }
