@@ -135,8 +135,13 @@ function Home(){
           </ul>
           <ul>
             <li>
-              <NavLink to='/one'>
+              <NavLink to='/twentyfive'>
                 3.11.22
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to='/twentysix'>
+                3.12.22
               </NavLink>
             </li>
           </ul>
