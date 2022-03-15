@@ -144,6 +144,21 @@ function Home(){
                 3.12.22
               </NavLink>
             </li>
+            <li>
+              <NavLink to='/twentyseven'>
+                3.13.22
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to='/twentyeight'>
+                3.14.22
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to='/twentynine'>
+                3.15.22
+              </NavLink>
+            </li>
           </ul>
         </div>
       
