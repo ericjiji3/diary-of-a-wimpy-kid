@@ -29,6 +29,7 @@ import E26 from './Entries/E26.js';
 import E27 from './Entries/E27.js';
 import E28 from './Entries/E28.js';
 import E29 from './Entries/E29.js';
+import E30 from './Entries/E30.js';
 
 import {
   BrowserRouter as Router,
@@ -78,6 +79,7 @@ function App() {
           <Route path="/twentyseven" element={<E27 />}/>
           <Route path="/twentyeight" element={<E28 />}/>
           <Route path="/twentynine" element={<E29 />}/>
+          <Route path="/thirty" element={<E30 />}/>
         </Routes>
         </div>
         </div>
