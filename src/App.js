@@ -41,11 +41,11 @@ import './App.css';
 
 function App() {
   return (
-      <div className="container row mx-auto align-middle">
-        <div className="col paper">
+      <div className="container row mx-auto my-3 align-middle">
+        <div className="col col-xs paper">
         <Home/>
         </div>
-        <div className="entries col">
+        <div className="entries col col-xs">
       <Routes>
           {/* <Route path="/" element={<Home />}/> */}
 

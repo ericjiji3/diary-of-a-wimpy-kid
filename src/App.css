@@ -6,7 +6,6 @@
   font-family: 'Patrick Hand SC', cursive;
 }
 .entries{
-  background-color: blue;
   border-top-right-radius: 25px 25px;
   border-bottom-right-radius: 25px 25px;
 }
@@ -39,5 +38,22 @@
   }
   .entries{
     font-size: 17.5px;
+  }
+}
+
+
+@media (max-width: 450px){
+  .container{
+      display: block!important;
+  }
+  .paper{
+    border-top-left-radius: 25px 25px;
+    border-top-right-radius: 25px 25px;
+    border-bottom-left-radius: 0;
+  }
+  .entries{
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 25px 25px;
+    border-bottom-left-radius: 25px 25px;
   }
 }
