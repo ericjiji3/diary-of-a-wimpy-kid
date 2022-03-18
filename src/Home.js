@@ -33,6 +33,9 @@ function Home(props){
   }, [])
     return(
         <div className="dates d-flex flex-wrap">
+          <NavLink to='/done'>
+                2.20.21
+              </NavLink>
               <NavLink to='/one'>
                 2.15.22
               </NavLink>

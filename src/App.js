@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import Home from './Home.js';
+import D1 from './Entries/D1.js';
 import E1 from './Entries/E1.js';
 import E2 from './Entries/E2.js';
 import E3 from './Entries/E3.js';
@@ -50,7 +51,7 @@ function App() {
         <div className="entries col col-xs">
       <Routes>
           {/* <Route path="/" element={<Home />}/> */}
-
+          <Route path="/done" element={<D1 />}/>
           <Route path="/one" element={<E1 />}/>
           <Route path="/two" element={<E2 />}/>
           <Route path="/three" element={<E3 />}/>
