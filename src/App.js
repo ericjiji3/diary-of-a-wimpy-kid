@@ -33,6 +33,10 @@ import E29 from './Entries/E29.js';
 import E30 from './Entries/E30.js';
 import E31 from './Entries/E31.js';
 import E32 from './Entries/E32.js';
+import E33 from './Entries/E33.js';
+import E34 from './Entries/E34.js';
+import E35 from './Entries/E35.js';
+import E36 from './Entries/E36.js';
 
 import {
   BrowserRouter as Router,
@@ -85,6 +89,10 @@ function App() {
           <Route path="/thirty" element={<E30 />}/>
           <Route path="/thirtyone" element={<E31 />}/>
           <Route path="/thirtytwo" element={<E32 />}/>
+          <Route path="/thirtythree" element={<E33 />}/>
+          <Route path="/thirtyfour" element={<E34 />}/>
+          <Route path="/thirtyfive" element={<E35 />}/>
+          <Route path="/thirtysix" element={<E36 />}/>
         </Routes>
         </div>
         </div>
