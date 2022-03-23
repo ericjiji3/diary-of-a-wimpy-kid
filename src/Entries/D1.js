@@ -6,7 +6,7 @@ function D1(){
             <h1>2.20.21</h1>
             <span>Just a few more months till I graduate, and it feels like the scariest thing ever. I'm writing this down to hopefully organize my thoughts and vent out some of my inner frustrations.</span>
             <h3>INNER FRUSTRATION 1: DRUGS</h3>
-            <span className="mb-3">Not that I really try other drugs besides weed, but the frequency is what bothers me. I used to smoke because it was a novel feeling. Now at times it feels like a necessity; 
+            <span>Not that I really try other drugs besides weed, but the frequency is what bothers me. I used to smoke because it was a novel feeling. Now at times it feels like a necessity; 
                 if I am not doing anything, weed would be my solution to my boredom. I don't think its a bad thing to smoke, but I should do it in moderation.
             </span>
             <h3>INNER FRUSTRATION 2: WORK</h3>
