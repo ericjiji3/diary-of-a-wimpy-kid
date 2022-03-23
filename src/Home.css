@@ -84,8 +84,30 @@
     margin: 0 10px;
 }
 
+@media (max-width: 1399px){
+    .socials .twitter, .socials .spotify, .socials .twitter, .socials .chicken-sandwich, .socials .twitch, .socials .instagram{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1199px){
+    .socials .twitter, .socials .spotify, .socials .twitter, .socials .chicken-sandwich, .socials .twitch, .socials .instagram{
+        font-size: 10px;
+        padding: 0 20px!important;
+    }
+}
 @media (max-width: 991px){
     .dates{
         font-size: 17.5px;
     }    
+}
+@media(max-width: 744px){
+    .socials .twitter, .socials .spotify, .socials .twitter, .socials .chicken-sandwich, .socials .twitch, .socials .instagram{
+        padding: 0 15px!important;
+    }
+}
+@media(max-width: 644px){
+    .socials .twitter, .socials .spotify, .socials .twitter, .socials .chicken-sandwich, .socials .twitch, .socials .instagram{
+        font-size: 8px;
+    }
 }
