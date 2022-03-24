@@ -159,6 +159,9 @@ function Home(props){
               <NavLink to='/thirtyseven'>
                 3.23.22
               </NavLink>
+              <NavLink to='/thirtyeight'>
+                3.24.22
+              </NavLink>
           
         </div>
         <div className="socials">
