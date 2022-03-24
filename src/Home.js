@@ -7,6 +7,17 @@ import {
     Link
   } from "react-router-dom";
 import "./Home.css";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {
+  faYoutube,
+  faFacebookF,
+  faTwitter,
+  faInstagram,
+  faSpotify,
+  faLinkedin,
+  faTwitch
+} from "@fortawesome/free-brands-svg-icons";
+import {faBurger} from "@fortawesome/free-solid-svg-icons";
 
 function Home(props){
   let isMobile = useRef(false);
@@ -32,6 +43,7 @@ function Home(props){
 
   }, [])
     return(
+      <div className="h-100 position-relative">
         <div className="dates d-flex flex-wrap">
           <NavLink to='/done'>
                 2.20.21
@@ -149,7 +161,24 @@ function Home(props){
               </NavLink>
           
         </div>
-      
+        <div className="socials">
+            <a href = "https://twitter.com/dj_ji3" className = "twitter px-4 col-1" target="_blank">
+                <FontAwesomeIcon icon={faTwitter} size="3x" />
+            </a>
+            <a href = "https://www.instagram.com/dj_ji/" className = "instagram px-4 col-1" target="_blank">
+                <FontAwesomeIcon icon={faInstagram} size="3x" />
+            </a>
+            <a href = "https://chicken-sandwich.herokuapp.com/" className = "chicken-sandwich px-4 col-1" target="_blank">
+                <FontAwesomeIcon icon={faBurger} size="3x" />
+            </a>
+            <a href = "https://open.spotify.com/user/qbm4hmd1ob4xw6rwf7bs09vso" className = "spotify px-4 col-1" target="_blank">
+                <FontAwesomeIcon icon={faSpotify} size="3x" />
+            </a>
+            <a href = "https://www.twitch.tv/dj_ji3" className = "twitch px-4 col-1" target="_blank">
+              <FontAwesomeIcon icon={faTwitch} size="3x"/>
+            </a>
+        </div>
+      </div>
     )
 }
 

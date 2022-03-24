@@ -41,6 +41,42 @@
     transform-origin: bottom left;
 }
 
+.socials{
+    text-align: center;
+    margin: 60px 0;
+}
+/* .socials a{
+    position: relative;
+    text-decoration: none;
+    color: black;
+    padding-bottom: 5px;
+}
+.socials a:after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+.socials a:hover:after{
+    transform: scaleX(1);
+    transform-origin: bottom left;
+} */
+
+.socials .twitter, .socials .spotify, .socials .twitter, .socials .chicken-sandwich, .socials .twitch, .socials .instagram{
+    color: black;
+    transition: 1s all;
+}
+/* .socials .twitter:hover, .socials .spotify:hover, .socials .twitter:hover, .socials .chicken-sandwich:hover, .socials .twitch:hover, .socials .instagram:hover{
+    font-size: 25px;
+    transition: .5s ease-in-out
+} */
+
 .line{
     flex-wrap: wrap;
 }
@@ -48,8 +84,30 @@
     margin: 0 10px;
 }
 
+@media (max-width: 1399px){
+    .socials .twitter, .socials .spotify, .socials .twitter, .socials .chicken-sandwich, .socials .twitch, .socials .instagram{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1199px){
+    .socials .twitter, .socials .spotify, .socials .twitter, .socials .chicken-sandwich, .socials .twitch, .socials .instagram{
+        font-size: 10px;
+        padding: 0 20px!important;
+    }
+}
 @media (max-width: 991px){
     .dates{
         font-size: 17.5px;
     }    
+}
+@media(max-width: 744px){
+    .socials .twitter, .socials .spotify, .socials .twitter, .socials .chicken-sandwich, .socials .twitch, .socials .instagram{
+        padding: 0 15px!important;
+    }
+}
+@media(max-width: 644px){
+    .socials .twitter, .socials .spotify, .socials .twitter, .socials .chicken-sandwich, .socials .twitch, .socials .instagram{
+        font-size: 8px;
+    }
 }
