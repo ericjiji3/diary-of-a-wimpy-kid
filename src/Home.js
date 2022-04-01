@@ -180,6 +180,12 @@ function Home(props){
               <NavLink to='/fortyfour'>
                 3.30.22
               </NavLink>
+              <NavLink to='/fortyfive'>
+                3.31.22
+              </NavLink>
+              <NavLink to='/fortysix'>
+                4.1.22
+              </NavLink>
           
         </div>
         <div className="socials">
