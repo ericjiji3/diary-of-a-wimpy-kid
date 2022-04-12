@@ -201,6 +201,21 @@ function Home(props){
               <NavLink to='/fiftyone'>
                 4.6.22
               </NavLink>
+              <NavLink to='/fiftytwo'>
+                4.7.22
+              </NavLink>
+              <NavLink to='/fiftythree'>
+                4.8.22
+              </NavLink>
+              <NavLink to='/fiftyfour'>
+                4.9.22
+              </NavLink>
+              <NavLink to='/fiftyfive'>
+                4.10.22
+              </NavLink>
+              <NavLink to='/fiftysix'>
+                4.11.22
+              </NavLink>
           
         </div>
         <div className="socials">
