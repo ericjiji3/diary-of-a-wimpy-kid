@@ -1,4 +1,5 @@
 import React from 'react';
+import P8 from '../pics/P8.jpg';
 
 function E8(){
     return(
@@ -11,6 +12,7 @@ function E8(){
                 take the initiative and actually set a date. I just want to get to know them better:( Also Matt put me on this banger:
             </span>
             <iframe src="https://open.spotify.com/embed/track/6TeB7j56k4AbELOl3G4zfj?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src={P8}/>
         </div>
         
     )

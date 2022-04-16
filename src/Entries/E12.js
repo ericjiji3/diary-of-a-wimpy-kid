@@ -1,4 +1,5 @@
 import React from 'react';
+import P12 from '../pics/P12.jpg';
 
 function E12(){
     return(
@@ -10,7 +11,8 @@ function E12(){
                 into that negative energy but its so easy to.
             </span>
             <iframe src="https://open.spotify.com/embed/track/7umZiitjVsEjMQ6HNddpUI?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>        
-            </div>     
+            <img src={P12}/>
+        </div>     
     )
 }
 

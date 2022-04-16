@@ -57,3 +57,16 @@
     border-bottom-left-radius: 25px 25px;
   }
 }
+
+
+img{
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+@media(max-width: 500px){
+  img{
+    width: 75%;
+  }
+}

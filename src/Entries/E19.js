@@ -1,4 +1,5 @@
 import React from 'react';
+import P19 from '../pics/P19.jpg';
 
 function E19(){
     return(
@@ -8,6 +9,7 @@ function E19(){
                 I haven't recovered since
             </span>
             <iframe src="https://open.spotify.com/embed/track/22PnPdB20lq7wElHkk17oP?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src={P19}/>
         </div>
     )}
 

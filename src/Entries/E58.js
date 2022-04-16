@@ -1,4 +1,5 @@
 import React from 'react';
+import P58 from '../pics/P58.jpg';
 
 function E58(){
     return(
@@ -9,6 +10,7 @@ function E58(){
                 Dr. Pepper milkshake, which did NOT dissapoint!!! Then I watched an ep of Abbot elementary with da bois. That show is gonna be da next Office.
             </span>
             <iframe src="https://open.spotify.com/embed/track/4KaIJ1FWXUoAAnOts1YWjD?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src={P58}/>
         </div>
     )}
 
