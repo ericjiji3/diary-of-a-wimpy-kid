@@ -1,4 +1,5 @@
 import React from 'react';
+import v52 from '../vids/v52.mp4';
 
 function E52(){
     return(
@@ -9,6 +10,9 @@ function E52(){
                 instability or anxiety in our lives"
             </span>
             <iframe src="https://open.spotify.com/embed/track/12W3pDsHMFZIPzM9MXs7Qn?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <video width="500" height="500" controls >
+                <source src={v52} type="video/mp4"/>
+            </video>
         </div>
     )}
 

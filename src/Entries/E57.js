@@ -1,4 +1,5 @@
 import React from 'react';
+import v57 from '../vids/v57.mp4';
 
 function E57(){
     return(
@@ -10,6 +11,9 @@ function E57(){
                  I think its crazy that you can meet new people in your life and be comfortable around them in such a short time. I guess thats just how fast life moves now!
             </span>
             <iframe src="https://open.spotify.com/embed/track/1mAey8kEPmDM2icL56kS9d?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <video width="500" height="500" controls >
+                <source src={v57} type="video/mp4"/>
+            </video>
         </div>
     )}
 

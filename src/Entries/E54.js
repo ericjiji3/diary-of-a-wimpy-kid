@@ -1,4 +1,5 @@
 import React from 'react';
+import P54 from '../pics/P54.jpg';
 
 function E54(){
     return(
@@ -10,6 +11,7 @@ function E54(){
                 playing 1v1 against another dude there. And then I went to buy some food from mah boi Ming, and chill with Abbas a little bit. Then I chilled with Greg, Arjun, Griffin, and Belle at our crib for a little.
             </span>
             <iframe src="https://open.spotify.com/embed/track/078C2jXg7XsMgW78Gfx1JA?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src={P54}/>
         </div>
     )}
 

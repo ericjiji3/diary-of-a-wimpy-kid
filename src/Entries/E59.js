@@ -1,4 +1,5 @@
 import React from 'react';
+import P59 from '../pics/P59.jpg';
 
 function E59(){
     return(
@@ -10,6 +11,7 @@ function E59(){
                 really even pay any attention to you. Actin like the world revolves around u, BITCH STOP HAVIN SUCH AN EGO.
             </span>
             <iframe src="https://open.spotify.com/embed/track/18sytW2s53Of6NVudQyUlH?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src={P59} />
         </div>
     )}
 
