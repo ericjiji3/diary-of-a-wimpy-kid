@@ -64,6 +64,10 @@ img{
   display: block;
   margin: auto;
 }
+video{
+  display: block;
+  margin: auto;
+}
 
 @media(max-width: 500px){
   img{

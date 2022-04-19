@@ -61,6 +61,8 @@ import E57 from './Entries/E57.js';
 import E58 from './Entries/E58.js';
 import E59 from './Entries/E59.js';
 import E60 from './Entries/E60.js';
+import E61 from './Entries/E61.js';
+import E62 from './Entries/E62.js';
 
 import {
   BrowserRouter as Router,
@@ -141,6 +143,8 @@ function App() {
           <Route path="/fiftyeight" element={<E58 />}/>
           <Route path="/fiftynine" element={<E59 />}/>
           <Route path="/sixty" element={<E60 />}/>
+          <Route path="/sixtyone" element={<E61 />}/>
+          <Route path="/sixtytwo" element={<E62 />}/>
         </Routes>
         </div>
         </div>
