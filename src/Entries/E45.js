@@ -1,4 +1,5 @@
 import React from 'react';
+import P45 from '../pics/P45.jpg';
 
 function E45(){
     return(
@@ -8,6 +9,7 @@ function E45(){
                  is gonna be handed to you on a silver platter!!!!
             </span>
             <iframe src="https://open.spotify.com/embed/track/0JuSGEldfovcc8IS9va1wa?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src={P45}/>        
         </div>
     )}
 

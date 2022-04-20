@@ -1,6 +1,7 @@
 import React from 'react';
+import P44 from '../pics/P44.jpg';
 
-function E43(){
+function E44(){
     return(
         <div>
             <h1>3.30.22</h1>
@@ -8,7 +9,8 @@ function E43(){
                 since life is moving fast now. Even if the entries don't always pertain to my daily life, the consistency is what matters. Just trying to be the best version of myself.
             </span>
             <iframe src="https://open.spotify.com/embed/track/2N3U8uTYhjX2KwGT0pf5x0?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src={P44}/>
         </div>
     )}
 
-export default E43;
+export default E44;

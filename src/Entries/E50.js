@@ -1,4 +1,5 @@
 import React from 'react';
+import P50 from '../pics/P50.jpg';
 
 function E50(){
     return(
@@ -10,6 +11,7 @@ function E50(){
                 Or maybe I'm just cringe.
             </span>
             <iframe src="https://open.spotify.com/embed/track/4MY8pe89WnW7xVOxUN4hmg?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src={P50}/>
         </div>
     )}
 
