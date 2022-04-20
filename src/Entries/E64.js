@@ -1,5 +1,5 @@
 import React from 'react';
-import P64 from '../pics/P64.jpg';
+import v64 from '../vids/v64.mp4';
 
 function E64(){
     return(
@@ -12,7 +12,9 @@ function E64(){
                 tickets for LOLAPALOOZA BABEEEE. Blessed to be where I am right now:DDDDD
             </span>
             <iframe src="https://open.spotify.com/embed/track/4bPQs0PHn4xbipzdPfn6du?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-            <img src={P64}/>
+            <video width="500" height="500" controls >
+                <source src={v64} type="video/mp4"/>
+            </video>
         </div>
     )}
 
