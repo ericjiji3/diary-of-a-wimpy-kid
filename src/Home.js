@@ -240,6 +240,12 @@ function Home(props){
               <NavLink to='/sixtyfour'>
                 4.19.22
               </NavLink>
+              <NavLink to='/sixtyfive'>
+                4.20.22
+              </NavLink>
+              <NavLink to='/sixtysix'>
+                4.21.22
+              </NavLink>
         </div>
         <div className="socials">
             <a href = "https://twitter.com/dj_ji3" className = "twitter px-4 col-1" target="_blank">
