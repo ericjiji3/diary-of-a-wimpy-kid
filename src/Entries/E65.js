@@ -12,6 +12,7 @@ function E65(){
                 and we tried hotboxing my room. It didn't really work out lol but it was still a gr8 time.  
             </span>
             <iframe src="https://open.spotify.com/embed/track/0GEEPePzBTplRekjTt04N0?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src="https://chi01pap001files.storage.live.com/y4mccqgqwzDnMpyVpP9IsKQv2O542KorWQ9_oR7NMAncJ9ZWJL51bSTZ_oW8qnFtcfy4YLXuj4V5kqN3SnGCkitnZ0j8Gnr0m9otcb3AoPs35iCew73z4OW9VD_teWMwIjfn-UH6H15zuCcXr5jFJfHmUB4CVCbeOMNWQwuSUBtAh6fb6s_6lvtouZqj-cLkK9j?width=660&height=495&cropmode=none"/>
         </div>
     )}
 

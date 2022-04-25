@@ -15,6 +15,7 @@ function E66(){
                 everyone. Don't be scared to talk to others; theyre probably thinking the same thing!   
             </span>
             <iframe src="https://open.spotify.com/embed/track/014GTMpri38e3HEsu4RNyg?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src="https://chi01pap001files.storage.live.com/y4m6-eVV06nD8gcQkCO--45q8am0z4qiKScSI_XdDjHserz7QBFhcX2fe2FI9INrdJ_Vopzka_2EVBGMGyKR7rbf2V3iywH7uyZk6TchsDHqJMA2WDBPOBh1qOVPHJrIBPeLRKuHI6CjHdlH8RG2a2-j9I58cdFh8XmKHujgHt0GMnBYFYNWYVPHs81UTK7RUTJ?width=495&height=660&cropmode=none"/>
         </div>
     )}
 
