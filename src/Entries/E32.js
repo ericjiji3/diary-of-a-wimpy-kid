@@ -16,6 +16,9 @@ function E32(){
                 <li>If plant has yellow leaves, overwatered!</li>
             </ul>
             <iframe src="https://open.spotify.com/embed/track/3A4yu3wHxrnAzyD9aUyjhp?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <div className="photo-vids">
+                
+            </div>
         </div>
     )}
 

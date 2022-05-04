@@ -10,7 +10,10 @@ function E53(){
                  and watched some Ranking of Kings and ordered sum Papa John's. Shit is still mid compared to Dominos though;)
             </span>
             <iframe src="https://open.spotify.com/embed/track/2fmCA13dwQQOGBIbIOWRiJ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-            <img src={P53}/>
+            <div className="photo-vids">
+                <img src={P53}/>
+            </div>
+            
         </div>
     )}
 

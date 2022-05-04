@@ -10,9 +10,12 @@ function E60(){
                  We went downtown and barhopped a little bit, then we went to one of Danae's friends party and it was a bunch of fun! Good time with good people:)
             </span>
             <iframe src="https://open.spotify.com/embed/track/58AGoOGbwsQMhBbH0eFLRR?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-            <video width="500" height="500" controls >
-                <source src={v60} type="video/mp4"/>
-            </video>
+            <div className="photo-vids">
+                <video width="500" height="500" controls >
+                    <source src={v60} type="video/mp4"/>
+                </video>
+            </div>
+            
         </div>
     )}
 

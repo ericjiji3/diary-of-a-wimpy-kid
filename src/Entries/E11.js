@@ -9,6 +9,9 @@ function E11(){
                 but I still got so mf mf mf mf drank. 
             </span>
             <iframe src="https://open.spotify.com/embed/track/5oady7OSE7dH7LHiqmb3Cr?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>       
+            <div className="photo-vids">
+                
+            </div>
         </div>     
     )
 }

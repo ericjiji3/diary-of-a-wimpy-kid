@@ -9,6 +9,9 @@ function E17(){
                 do things. I realized as I get older that whether you hate it or love it, someone has to initiate if one wants to build a relationship. Stop standing around and waiting for life to pass you.
             </span>
             <iframe src="https://open.spotify.com/embed/track/3vySEUpD0tc801F2WZDLYw?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <div className="photo-vids">
+            
+            </div>
         </div>     
     )
 }

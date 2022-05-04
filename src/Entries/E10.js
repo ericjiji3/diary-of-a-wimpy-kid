@@ -9,6 +9,9 @@ function E10(){
                 Other than that I didn't do shit besides go to the gym to do a little bit of cardio. Im gonna go lay on my bed and be sad no cuz im cold and lonely. 
             </span>
             <iframe src="https://open.spotify.com/embed/track/7j31rVgGX9Q2blT92VBEA0?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>   
+            <div className="photo-vids">
+                
+            </div>
         </div>     
     )
 }

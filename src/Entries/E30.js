@@ -8,6 +8,9 @@ function E30(){
                 is not good and seomthing I need to work on. 
             </span>
             <iframe src="https://open.spotify.com/embed/track/593W4qZOwwdqF6YnimJjL6?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <div className="photo-vids">
+                
+            </div>
         </div>
     )}
 

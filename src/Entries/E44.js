@@ -9,7 +9,9 @@ function E44(){
                 since life is moving fast now. Even if the entries don't always pertain to my daily life, the consistency is what matters. Just trying to be the best version of myself.
             </span>
             <iframe src="https://open.spotify.com/embed/track/2N3U8uTYhjX2KwGT0pf5x0?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-            <img src={P44}/>
+            <div className="photo-vids">
+                <img src={P44}/>
+            </div>
         </div>
     )}
 

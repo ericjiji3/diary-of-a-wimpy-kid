@@ -10,7 +10,9 @@ function E16(){
                 we are likely to see their good points as bad, and vice versa. What a mistake to make!"
             </span>
             <iframe src="https://open.spotify.com/embed/track/6MCjmGYlw6mQVWRFVgBRvB?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-            <img src={P16}/>
+            <div className="photo-vids">
+                <img src={P16}/>
+            </div>
         </div>     
     )
 }

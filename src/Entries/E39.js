@@ -8,6 +8,9 @@ function E39(){
                 I just want the best for Gojji. He might be weak, but he has a big heart:)
             </span>
             <iframe src="https://open.spotify.com/embed/track/4GYfARUu6WGJbCqkAjWXQr?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <div className="photo-vids">
+                
+            </div>
         </div>
     )}
 

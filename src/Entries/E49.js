@@ -8,7 +8,10 @@ function E49(){
             <span>You always want what you don't have :/
             </span>
             <iframe src="https://open.spotify.com/embed/track/2NniAhAtkRACaMeYt48xlD?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-            <img src={P49}/>
+            <div className="photo-vids">
+                <img src={P49}/>
+            </div>
+            
         </div>
     )}
 

@@ -10,6 +10,9 @@ function E38(){
                 inner self rather than be driven by instant beliefs or biases. Reaction is to be emotional, response is to have emotional intelligence.
             </span>
             <iframe src="https://open.spotify.com/embed/track/615XzGXe72YUjagvkMmEFi?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <div className="photo-vids">
+                
+            </div>
         </div>
     )}
 

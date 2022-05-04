@@ -8,6 +8,9 @@ function E40(){
                 screaming on the mic lmfao. Glad that everyone seemed to be having fun as well:)
             </span>
             <iframe src="https://open.spotify.com/embed/track/6KZ5tQzMzradTe0pxsfObz?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <div className="photo-vids">
+                
+            </div>
         </div>
     )}
 

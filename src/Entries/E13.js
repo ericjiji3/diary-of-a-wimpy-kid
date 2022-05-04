@@ -10,6 +10,9 @@ function E13(){
                 my feelings and still be fukiin sad. 
             </span>
             <iframe src="https://open.spotify.com/embed/track/61YzdCCBPM5Pc7lIiD5i8C?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>        
+            <div className="photo-vids">
+                
+            </div>
         </div>
     )
 }

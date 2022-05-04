@@ -9,6 +9,8 @@ function E5(){
                 is like the prov level. ANd then I got AYCE sushi with my mama and I dont think I need anyt sushi for a minute.
             </span>
             <iframe src="https://open.spotify.com/embed/track/29Hn3L56DQ6y7W249oVxqd?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>           
+            <div className="photo-vids">
+            </div>
         </div>
         
     )

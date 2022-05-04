@@ -13,8 +13,11 @@ function E14(){
                 a stupiid snowball that you'll notice, and move on with your frickin life.
             </span>
             <iframe src="https://open.spotify.com/embed/track/3nQv9GfSPsgndLnAQ5uNmy?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>            
-            <img src={P14}/>
+            
+            <div className="photo-vids">
+                <img src={P14}/>    
             </div>
+        </div>
         
     )
 }

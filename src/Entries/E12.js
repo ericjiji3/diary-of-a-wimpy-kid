@@ -11,7 +11,9 @@ function E12(){
                 into that negative energy but its so easy to.
             </span>
             <iframe src="https://open.spotify.com/embed/track/7umZiitjVsEjMQ6HNddpUI?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>        
-            <img src={P12}/>
+            <div className="photo-vids">
+                <img src={P12}/>
+            </div>
         </div>     
     )
 }

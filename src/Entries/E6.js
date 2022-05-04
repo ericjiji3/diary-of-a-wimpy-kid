@@ -10,7 +10,10 @@ function E6(){
                 individual. Not only is being an individual kinda cool, but I like taking this time to I guess work on myself, no matter what kind of means of improvement I want. OK, imma go to Ryan's bday party rq. Gonna fukin smirnoff ice him >:)
             </span>
             <iframe src="https://open.spotify.com/embed/track/5STe0hPlbFwIk0OkjNRJLa?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>        
-            <img src={P6}/>
+            
+            <div className="photo-vids">
+                <img src={P6}/>
+            </div>
         </div>
     )
 }

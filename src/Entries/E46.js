@@ -8,7 +8,9 @@ function E46(){
             <span>It's nice to address things that have been weighing heavy on me:)
             </span>
             <iframe src="https://open.spotify.com/embed/track/0wCWpty8xz2eli5LlUqrb3?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-            <img src={P46}/>
+            <div className="photo-vids">
+                <img src={P46}/> 
+            </div>
         </div>
     )}
 

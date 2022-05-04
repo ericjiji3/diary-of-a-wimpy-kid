@@ -12,6 +12,9 @@ function E7(){
                   that spending time with others is really important in building a relationship. You could be doing anything with that time, but you choose to spend it with them.
             </span>
             <iframe src="https://open.spotify.com/embed/track/3cqWSJzuxZCsglpaxWtosT?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <div className="photo-vids">
+               
+            </div>
         </div>        
     )
 }

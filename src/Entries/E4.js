@@ -10,7 +10,10 @@ function E4(){
                 dude I am so cring. nd sad:(
             </span>
             <iframe src="https://open.spotify.com/embed/track/5hmv0zcBcIX8OIVG98imHa?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>        
+            <div className="photo-vids">
+                
             </div>
+        </div>
         
     )
 }

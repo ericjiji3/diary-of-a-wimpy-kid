@@ -12,7 +12,10 @@ function E55(){
                  people like it now! I had a good ass time! Also it was so cool cuz the stadium would turn green whenever Austin FC scored a goal. I also gotta hat:)
             </span>
             <iframe src="https://open.spotify.com/embed/track/5cYEuFqzITZlZzpoR1sHvu?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-            <img src={P55}/>
+            <div className="photo-vids">
+                <img src={P55}/>
+            </div>
+            
         </div>
     )}
 
