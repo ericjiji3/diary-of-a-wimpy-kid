@@ -267,6 +267,27 @@ function Home(props){
               <NavLink to='/seventythree'>
                 4.28.22
               </NavLink>
+              <NavLink to='/seventyfour'>
+                4.29.22
+              </NavLink>
+              <NavLink to='/seventyfive'>
+                4.30.22
+              </NavLink>
+              <NavLink to='/seventysix'>
+                5.1.22
+              </NavLink>
+              <NavLink to='/seventyseven'>
+                5.2.22
+              </NavLink>
+              <NavLink to='/seventyeight'>
+                5.3.22
+              </NavLink>
+              <NavLink to='/seventynine'>
+                5.4.22
+              </NavLink>
+              <NavLink to='/eighty'>
+                5.5.22
+              </NavLink>
         </div>
         <div className="socials">
             <a href = "https://twitter.com/dj_ji3" className = "twitter px-4 col-1" target="_blank">

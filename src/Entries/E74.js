@@ -6,10 +6,13 @@ function E74(){
         <div>
             <h1>4.29.22</h1>
             <span>
-                All I remember doing today was just ballin while listening to music. Its truly when I have the most fun on my weekdays; just being able to run around with other people
+                I worked out today and then went to grab drinks wiht Rebecca, who was really cool! She's a biochem major, and actually likes it!
+                She wants to go to grad school for biochem too, which could not be me bro my brain would overfry. She was easy to talk to and 
+                we ended up going back to hers to smoke sum and talk more! She also got sum KRandB bangers that she put me on, which I've never really 
+                been into. 
             </span>
-            <iframe src="https://open.spotify.com/embed/track/2gxz8UggSPPdJXz9IPdiPZ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-            <img src="https://chi01pap001files.storage.live.com/y4mmlT-9stoag1HKutGdiKkSVSU7onN4i58YsYUZQbPwa-BsBxVn4-8Z3yxjCXlxjV3SXoI1aWiZKE5vaIXFavm6cRS0cBY52PR5JMsOJ-9BXFFsyuRXZIfLdhzTnNTK8LPWYnCEQ-YCaf618gH803ntv9vKX0puf5UGg7je13ujmjIjro7onGUmEHk0uzwLM_Q?width=660&height=469&cropmode=none"/>
+            <iframe src="https://open.spotify.com/embed/track/2448wE4RMNxPzXcQxTwq5h?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <img src="https://chi01pap001files.storage.live.com/y4mmLgaGAi5h6bs_-4alIjNOXCCq75voYT2xIVeUfYcZAkylYFkrwmHZxYLMSows0ceIsXPkJv1OeZtF4ug3lZclYHFqNmahGN0VgOVG7RMb7BJK1T3DOXmY99MCcZeZfSSU4tlgxg06gnzj06GaAVkTLnwlbd29ifk-A_-jza9cT6CvxqDzkPtzMLFqrIuiInu?width=495&height=660&cropmode=none"/>
         </div>
     )}
 
