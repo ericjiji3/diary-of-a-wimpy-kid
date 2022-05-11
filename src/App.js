@@ -81,6 +81,10 @@ import E77 from './Entries/E77.js';
 import E78 from './Entries/E78.js';
 import E79 from './Entries/E79.js';
 import E80 from './Entries/E80.js';
+import E81 from './Entries/E81.js';
+import E82 from './Entries/E82.js';
+import E83 from './Entries/E83.js';
+import E84 from './Entries/E84.js';
 
 import {
   BrowserRouter as Router,
@@ -181,6 +185,10 @@ function App() {
           <Route path="/seventyeight" element={<E78 />}/>
           <Route path="/seventynine" element={<E79 />}/>
           <Route path="/eighty" element={<E80 />}/>
+          <Route path="/eightyone" element={<E81 />}/>
+          <Route path="/eightytwo" element={<E82 />}/>
+          <Route path="/eightythree" element={<E83 />}/>
+          <Route path="/eightyfour" element={<E84 />}/>
         </Routes>
         </div>
         </div>
