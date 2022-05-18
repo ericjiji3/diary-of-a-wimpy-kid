@@ -300,6 +300,9 @@ function Home(props){
               <NavLink to='/eightyfour'>
                 5.9.22
               </NavLink>
+              <NavLink to='/eightyfive'>
+                5.18.22
+              </NavLink>
         </div>
         <div className="socials">
             <a href = "https://twitter.com/dj_ji3" className = "twitter px-4 col-1" target="_blank">
